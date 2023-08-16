@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/This-is-Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec01/VariableExchangeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec01/VariableInitializationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec01/VariableUseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec02/IntegerLiteralExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec02/LongExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec03/CharExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec04/FloatDoubleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec05/BooleanExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec06/StringExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec06/TextBlockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec07/PromotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec08/CastingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/sec09/OperationPromotionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/sec09/StringConcatExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/sec10/PrimitiveAndStringConversionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/sec11/VariableScopeExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/sec12/PrintfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/sec13/ScannerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec01/IncreaseDecreaseOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec01/SignOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec02/ArithmeticOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec03/OverflowUnderflowExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec04/AccuracyExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec04/AccuracyExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec05/InfinityAndNaNCheckExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec06/CompareOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec07/LogicalOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec08/BitLogicExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec09/BitShiftExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec09/BitShiftExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec10/AssignmentOperatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch03/sec11/ConditionalOperationExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfDiceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfElseIfElseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec02/IfNestedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchCharExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchExpressionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchNoBreakCaseExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec03/SwitchValueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec04/FloatCounterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec04/MultiplicationTableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec04/PrintFrom1to10Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch04/sec04/SumFrom1To100Example.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2TXo4hP7YHuQgpZZoZhboPM7CCC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="" />
+      <created>1691198596602</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691198596602</updated>
+      <workItem from="1691198597657" duration="619000" />
+      <workItem from="1691337071190" duration="3360000" />
+      <workItem from="1691342770647" duration="531000" />
+      <workItem from="1691354533593" duration="7000" />
+      <workItem from="1691538542126" duration="4468000" />
+      <workItem from="1691637617157" duration="2440000" />
+      <workItem from="1691641182500" duration="1000" />
+      <workItem from="1691719646762" duration="3830000" />
+      <workItem from="1692000972135" duration="2392000" />
+      <workItem from="1692009484563" duration="7000" />
+      <workItem from="1692018671992" duration="1423000" />
+      <workItem from="1692066931713" duration="10000" />
+      <workItem from="1692095539376" duration="2070000" />
+      <workItem from="1692117013956" duration="1510000" />
+      <workItem from="1692143042937" duration="3635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
