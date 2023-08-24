@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="6.2절 ~ 6.5절 정리 및 학습노트 링크 구성" />
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="깃헙 링크로 가게끔 학습노트 링크 정리">
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/6.6 필드 선언과 사용.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam01/CarExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec06/exam02/CarExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/학습로그/2023.08.25(금)_학습로그.md" beforeDir="false" afterPath="$PROJECT_DIR$/학습로그/2023.08.25(금)_학습로그.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,14 +67,13 @@
       <recent name="$PROJECT_DIR$/src/ch05/sec12" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScoreAnalyzer">
-    <configuration name="MainStringArrayArgument" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec11.MainStringArrayArgument" />
+  <component name="RunManager" selected="Application.ch06.sec06.exam02.CarExample">
+    <configuration name="CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec06.CarExample" />
       <module name="This-is-Java" />
-      <option name="PROGRAM_PARAMETERS" value="10 20" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.sec11.*" />
+          <option name="PATTERN" value="ch06.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeekExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch05.sec12.WeekExample" />
+    <configuration name="ch06.sec06.exam02.CarExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch06.sec06.exam02.CarExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch05.sec12.*" />
+          <option name="PATTERN" value="ch06.sec06.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,19 +134,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CarExample" />
+      <item itemvalue="Application.ch06.sec06.exam02.CarExample" />
       <item itemvalue="Application.PrintMaxValue" />
       <item itemvalue="Application.ScoreAnalyzer" />
       <item itemvalue="Application.SumAndAverageOfArray" />
-      <item itemvalue="Application.WeekExample" />
-      <item itemvalue="Application.MainStringArrayArgument" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch06.sec06.exam02.CarExample" />
+        <item itemvalue="Application.CarExample" />
         <item itemvalue="Application.ScoreAnalyzer" />
         <item itemvalue="Application.SumAndAverageOfArray" />
         <item itemvalue="Application.PrintMaxValue" />
-        <item itemvalue="Application.WeekExample" />
-        <item itemvalue="Application.MainStringArrayArgument" />
       </list>
     </recent_temporary>
   </component>
@@ -174,6 +181,8 @@
       <workItem from="1692874146897" duration="5590000" />
       <workItem from="1692885302436" duration="1643000" />
       <workItem from="1692897313421" duration="3951000" />
+      <workItem from="1692901306043" duration="517000" />
+      <workItem from="1692902710047" duration="1531000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -223,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692901268542</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="깃헙 링크로 가게끔 학습노트 링크 정리">
+      <option name="closed" value="true" />
+      <created>1692901820875</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692901820875</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,7 +264,8 @@
     <MESSAGE value="5장 완료" />
     <MESSAGE value="6.1절 완료&#10;2023.08.24(금)_학습로그.md 첨부 및 하루 공부 마무리" />
     <MESSAGE value="6.2절 ~ 6.5절 정리 및 학습노트 링크 구성" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.2절 ~ 6.5절 정리 및 학습노트 링크 구성" />
+    <MESSAGE value="깃헙 링크로 가게끔 학습노트 링크 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="깃헙 링크로 가게끔 학습노트 링크 정리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
