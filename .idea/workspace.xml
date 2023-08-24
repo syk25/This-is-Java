@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="6.1절 완료&#10;2023.08.24(금)_학습로그.md 첨부 및 하루 공부 마무리">
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec02/6.2 객체와 클래스.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec03/6.3 클래스 선언.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec03/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec04/6.4 객체 생성과 클래스변수.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec04/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch06/sec04/StudentExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/학습로그/2023.08.25(금)_학습로그.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/학습로그/학습노트 링크 정리.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/학습로그/2023.08.24(금)_학습로그.md" beforeDir="false" afterPath="$PROJECT_DIR$/학습로그/2023.08.24(목)_학습로그.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/학습로그/학습노트종합.md" beforeDir="false" afterPath="$PROJECT_DIR$/학습로그/학습노트종합.md" afterDir="false" />
-    </list>
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="6.2절 ~ 6.5절 정리 및 학습노트 링크 구성" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,6 +52,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/학습로그" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/ch05/solving" />
       <recent name="$PROJECT_DIR$/src/ch05/sec11" />
       <recent name="$PROJECT_DIR$/src/ch05/sec12" />
@@ -183,7 +173,7 @@
       <workItem from="1692781326380" duration="5664000" />
       <workItem from="1692874146897" duration="5590000" />
       <workItem from="1692885302436" duration="1643000" />
-      <workItem from="1692897313421" duration="1990000" />
+      <workItem from="1692897313421" duration="3951000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -225,7 +215,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692886943771</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="6.2절 ~ 6.5절 정리 및 학습노트 링크 구성">
+      <option name="closed" value="true" />
+      <created>1692901268542</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692901268542</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -248,7 +246,8 @@
     <MESSAGE value="-- 학습 일지 day1--&#10;5.1절 : 데이터타입 분류 정리&#10;5.2절 : 메모리 사용 영역&#10;5.3절 : 참조타입변수의 ==, != 연산&#10;5.4절 : null, null point exception" />
     <MESSAGE value="5장 완료" />
     <MESSAGE value="6.1절 완료&#10;2023.08.24(금)_학습로그.md 첨부 및 하루 공부 마무리" />
-    <option name="LAST_COMMIT_MESSAGE" value="6.1절 완료&#10;2023.08.24(금)_학습로그.md 첨부 및 하루 공부 마무리" />
+    <MESSAGE value="6.2절 ~ 6.5절 정리 및 학습노트 링크 구성" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.2절 ~ 6.5절 정리 및 학습노트 링크 구성" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
