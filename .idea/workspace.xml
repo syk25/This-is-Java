@@ -4,40 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="-- 학습 일지 day1--&#10;5.1절 : 데이터타입 분류 정리&#10;5.2절 : 메모리 사용 영역&#10;5.3절 : 참조타입변수의 ==, != 연산&#10;5.4절 : null, null point exception">
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/5.5 문자열타입.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/CharAtExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/EmptyStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/EqualsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/IndexOfContainsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/LengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/ReplaceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/SplitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec05/SubStringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/5.6 배열타입.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayCreateByValueListExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec06/ArrayLengthExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec07/MultiDimensionalArrayByNewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec07/MultiDimensionalArrayByValueListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec08/ArrayReferenceObjectExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyByForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec09/ArrayCopyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec10/AdvancedForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec11/5.11 main메서드와 String[] 매개변수의 용도.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec11/MainStringArrayArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec12/5.12 열거타입.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec12/Week.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/sec12/WeekExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/solving/5장 연습문제.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/solving/PrintMaxValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/solving/ScoreAnalyzer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch05/solving/SumAndAverageOfArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/학습로그/2023.08.25.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/학습로그/학습로그 요약.md" afterDir="false" />
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="5장 완료">
+      <change afterPath="$PROJECT_DIR$/src/ch06/sec01/6.1 객체지향프로그래밍.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch05/sec04/GarbageObjectExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch05/sec04/GarbageObjectExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/학습로그/2023.08.25.md" beforeDir="false" afterPath="$PROJECT_DIR$/학습로그/학습노트종합.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/학습로그/학습로그 요약.md" beforeDir="false" afterPath="$PROJECT_DIR$/학습로그/2023.08.24(금)_학습로그.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,24 +37,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/ch05/solving" />
@@ -203,7 +174,8 @@
       <workItem from="1692412630067" duration="3377000" />
       <workItem from="1692701320231" duration="7076000" />
       <workItem from="1692781326380" duration="5664000" />
-      <workItem from="1692874146897" duration="4988000" />
+      <workItem from="1692874146897" duration="5590000" />
+      <workItem from="1692885302436" duration="1607000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -229,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692732677603</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="5장 완료">
+      <option name="closed" value="true" />
+      <created>1692879956142</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692879956142</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +230,8 @@
     <MESSAGE value="4.5절, 4.6절 예제 완료" />
     <MESSAGE value="4장 완료&#10;1. 4.7, 4.8절 예제풀이 완료&#10;2. 4장 연습문제 풀이 완료" />
     <MESSAGE value="-- 학습 일지 day1--&#10;5.1절 : 데이터타입 분류 정리&#10;5.2절 : 메모리 사용 영역&#10;5.3절 : 참조타입변수의 ==, != 연산&#10;5.4절 : null, null point exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="-- 학습 일지 day1--&#10;5.1절 : 데이터타입 분류 정리&#10;5.2절 : 메모리 사용 영역&#10;5.3절 : 참조타입변수의 ==, != 연산&#10;5.4절 : null, null point exception" />
+    <MESSAGE value="5장 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="5장 완료" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
