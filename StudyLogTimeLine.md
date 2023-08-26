@@ -32,3 +32,16 @@ null 인 줄 알았는데 false 였다.
 강사님들이 하는 말도 이해의 수준으로 내려왔다.
 
 # 2023.08.26(토)
+## 학습내용
+[6.9 인스턴스 멤버](src/ch06/sec09/6.9_InstanceMember.md)</br>
+[6.10 정적 멤버](src/ch06/sec10/6.10_StaticMember.md)</br>
+[6.11 final, 상수](src/ch06/sec11/6.11_FinalAndConstant.md)</br>
+[6.12 패키지](src/ch06/sec12/6.12_package.md)</br>
+[6.13 접근제한자](src/ch06/sec13/6.13_Restrictor.md)</br>
+
+# 2023.08.27(일)
+## 학습내용
+[6.14 Getter, Setter](src/ch06/sec14/6.14_GetterAndSetter.md)</br>
+[6.15 Singleton 패턴](src/ch06/sec15/6.15_Singleton.md)</br>
+[7.1 상속개념](src/ch07/sec01/7.1_Inheritance.md)</br>
+[7.2 클래스 상속](src/ch07/sec02/7.2_ClassInheritance.md)</br>
