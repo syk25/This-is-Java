@@ -45,3 +45,13 @@ null 인 줄 알았는데 false 였다.
 [6.15 Singleton 패턴](src/ch06/sec15/6.15_Singleton.md)</br>
 [7.1 상속개념](src/ch07/sec01/7.1_Inheritance.md)</br>
 [7.2 클래스 상속](src/ch07/sec02/7.2_ClassInheritance.md)</br>
+[7.3 부모생성자 호출](src/ch07/sec03/7.3_ParentContstructorCall.md)</br>
+[7.4 메서드 재정의](src/ch07/sec04/7.4_MethodOverriding.md)</br>
+
+## 고찰
+> 클래스 취급 시 전체 이름으로 '**인지**'할 것</br>
+
+코드 상에 객체를 생성할 때 쓰이는 클래스의 이름이 다른 디렉토리랑 겹칠 때가 있다.
+그리고 겹쳐질 때 서로 다른 클래스랑 혼돈이 일어날 수 있다.
+이를 방지하기 위해 디렉토리를 포함한 클래스의 전체이름으로 클래스를 인지하고 다른 클래스와 혼동되지 않도록 하자.
+이를 위해 생성자 호출 시 어느 디렉토리의 클래스인지 인지를 하자.
