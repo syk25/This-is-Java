@@ -5,57 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="2023.08.27 학습 경과">
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/7.5_FinalClassAndFinalMethod.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam01/Member.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam01/VeryImportantPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam02/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec05/exam02/SportsCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/7.6_protected.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package1/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package1/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package2/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec06/package2/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/7.7_TypeTransition.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam01/PromotionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/ChildExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam02/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/ChildExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec07/exam03/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/7.8_Polymorphism.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/CarExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/HankookTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/KumhoTire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam01/Tire.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Bus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/DriverExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Taxi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec08/exam02/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/7.9_instanceof.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/InstanceOfExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec09/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/7.10_AbstractClassAndMethod.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/PhoneExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam01/SmartPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/AbstractMethodExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec10/exam02/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/7.11_SealedClass.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch07/sec11/SealedExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec01/2.1_variables.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec02/2.2_integer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec03/2.3_character.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch02/Sec04/2.4_float.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec01/8.1_Interface.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/8.2_InterfaceDeclaration.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/Audio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/RemoteControlExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch08/sec02/Television.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyLogTimeLine.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyLogTimeLine.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyNotes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch07/sec04/7.4_MethodOverriding.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch07/sec04/7.4_MethodOverriding.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -124,11 +87,11 @@
       <recent name="$PROJECT_DIR$/src/ch06/sec08/exam02" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch02/Sec04" />
+      <recent name="$PROJECT_DIR$/src/ch02/Sec03" />
+      <recent name="$PROJECT_DIR$/src/ch02/Sec02" />
+      <recent name="$PROJECT_DIR$/src/ch02/Sec01" />
       <recent name="$PROJECT_DIR$/src/ch07/sec06" />
-      <recent name="$PROJECT_DIR$/src/ch06/sec11" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/학습로그" />
-      <recent name="$PROJECT_DIR$/src/ch05/solving" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ch06.sec13.exam03.package2" />
@@ -137,26 +100,13 @@
       <recent name="ch06.sec13.exam02.package1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SealedExample">
+  <component name="RunManager" selected="Application.RemoteControlExample">
     <configuration name="AbstractMethodExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch07.sec10.exam02.AbstractMethodExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ch07.sec10.exam02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DriverExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch07.sec08.exam02.DriverExample" />
-      <module name="This-is-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch07.sec08.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -190,6 +140,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RemoteControlExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch08.sec02.RemoteControlExample" />
+      <module name="This-is-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch08.sec02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SealedExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch07.sec11.SealedExample" />
       <module name="This-is-Java" />
@@ -204,19 +167,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.RemoteControlExample" />
       <item itemvalue="Application.AbstractMethodExample" />
-      <item itemvalue="Application.DriverExample" />
       <item itemvalue="Application.InstanceOfExample" />
       <item itemvalue="Application.PhoneExample" />
       <item itemvalue="Application.SealedExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoteControlExample" />
         <item itemvalue="Application.SealedExample" />
         <item itemvalue="Application.AbstractMethodExample" />
         <item itemvalue="Application.PhoneExample" />
         <item itemvalue="Application.InstanceOfExample" />
-        <item itemvalue="Application.DriverExample" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +223,9 @@
       <workItem from="1693041714737" duration="26000" />
       <workItem from="1693066837770" duration="3323000" />
       <workItem from="1693093927623" duration="5470000" />
-      <workItem from="1693111578684" duration="13354000" />
+      <workItem from="1693111578684" duration="13588000" />
+      <workItem from="1693201201268" duration="288000" />
+      <workItem from="1693219033608" duration="2867000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -350,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693099816298</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="2023.08.27 학습 경과">
+      <option name="closed" value="true" />
+      <created>1693194910284</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1693194910284</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

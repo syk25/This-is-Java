@@ -65,6 +65,10 @@ null 인 줄 알았는데 false 였다.
 [7.9 instanceof](src/ch07/sec09/7.9_instanceof.md)</br>
 [7.10 추상클래스](src/ch07/sec10/7.10_AbstractClassAndMethod.md)</br>
 [7.11 봉인된 클래스](src/ch07/sec11/7.11_SealedClass.md)</br>
+[8.1 인터페이스의 역할](src/ch08/sec01/8.1_Interface.md)</br>
+[8.2 인터페이스와 구현클래스의 선언](src/ch08/sec02/8.2_InterfaceDeclaration.md)</br>
+[8.3 상수필드](src/ch08/sec03/8.3_ConstantField.md)</br>
+
 ## 고찰
 > 다형성이란 방법은 동일하나 결과가 다른 성질이다.</br>
 

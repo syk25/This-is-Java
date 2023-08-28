@@ -1,3 +1,10 @@
+# Part 01
+## 2장 변수
+[2.1 변수의 선언](src/ch02/Sec01/2.1_variables.md)</br>
+[2.2 정수타입](src/ch02/Sec02/2.2_integer.md)</br>
+[2.3 문자타입](src/ch02/Sec03/2.3_character.md)</br>
+[2.4 실수타입](src/ch02/Sec04/2.4_float.md)</br>
+
 # Part 02 객체지향 프로그래밍
 ## 5장 참조타입
 [5.11 main 메서드](src/ch05/sec11/5.11_main_method.md)</br>
@@ -32,3 +39,8 @@
 [7.9 instanceof](src/ch07/sec09/7.9_instanceof.md)</br>
 [7.10 추상클래스](src/ch07/sec10/7.10_AbstractClassAndMethod.md)</br>
 [7.11 봉인된 클래스](src/ch07/sec11/7.11_SealedClass.md)</br>
+
+## 8장 인터페이스
+[8.1 인터페이스의 역할](src/ch08/sec01/8.1_Interface.md)</br>
+[8.2 인터페이스와 구현클래스의 선언](src/ch08/sec02/8.2_InterfaceDeclaration.md)</br>
+[8.3 상수필드](src/ch08/sec03/8.3_ConstantField.md)</br>
