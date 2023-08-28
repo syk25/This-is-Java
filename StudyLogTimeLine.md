@@ -47,6 +47,7 @@ null 인 줄 알았는데 false 였다.
 [7.2 클래스 상속](src/ch07/sec02/7.2_ClassInheritance.md)</br>
 [7.3 부모생성자 호출](src/ch07/sec03/7.3_ParentContstructorCall.md)</br>
 [7.4 메서드 재정의](src/ch07/sec04/7.4_MethodOverriding.md)</br>
+[7.5 final 클래스와 final 메서드](src/ch07/sec05/7.5_FinalClassAndFinalMethod.md)</br>
 
 ## 고찰
 > 클래스 취급 시 전체 이름으로 '**인지**'할 것</br>
@@ -55,3 +56,23 @@ null 인 줄 알았는데 false 였다.
 그리고 겹쳐질 때 서로 다른 클래스랑 혼돈이 일어날 수 있다.
 이를 방지하기 위해 디렉토리를 포함한 클래스의 전체이름으로 클래스를 인지하고 다른 클래스와 혼동되지 않도록 하자.
 이를 위해 생성자 호출 시 어느 디렉토리의 클래스인지 인지를 하자.
+
+# 2023.08.28(월)
+## 학습내용
+[7.6 protected access modifier](src/ch07/sec06/7.6_protected.md)</br>
+[7.7 클래스타입변환](src/ch07/sec07/7.7_TypeTransition.md)</br>
+[7.8 다형성](src/ch07/sec08/7.8_Polymorphism.md)</br>
+[7.9 instanceof](src/ch07/sec09/7.9_instanceof.md)</br>
+[7.10 추상클래스](src/ch07/sec10/7.10_AbstractClassAndMethod.md)</br>
+[7.11 봉인된 클래스](src/ch07/sec11/7.11_SealedClass.md)</br>
+## 고찰
+> 다형성이란 방법은 동일하나 결과가 다른 성질이다.</br>
+
+다형성을 활용하게 된다면 코드의 수를 줄일 수 있다. 별도의 객체를 생성할 필요없이 클래스 간에 상속관계를 만들어놓고 메서드들을 적절히 재정의한다면 중복코드를 쓸 필요없이 코드를 작성할 수 있기 때문이다.
+다만, 상속관계를 별도로 설정을 해야하는데 이를 추적하는 게 번거로울 것 같다 .
+
+> 메서드를 재정의할 때 부모클래스의 메서드보다 접근제한을 강화해서는 안된다.</br>
+
+> 자식클래스가 부모클래스로 자동타입변환 한 뒤 다시 자식클래스로 돌아가려고할 때만 수동타입변환이 허용된다.</br>
+
+> A instanceof B b 를 이용해서 A 가 B와 동일한 클래스인지 여부를 확이할 수 있다. 
