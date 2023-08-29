@@ -1,4 +1,4 @@
-# Part 01
+# Part 01 자바 언어 기초
 ## 2장 변수
 [2.1 변수의 선언](src/ch02/Sec01/2.1_variables.md)</br>
 [2.2 정수타입](src/ch02/Sec02/2.2_integer.md)</br>
