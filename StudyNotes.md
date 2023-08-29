@@ -44,3 +44,15 @@
 [8.1 인터페이스의 역할](src/ch08/sec01/8.1_Interface.md)</br>
 [8.2 인터페이스와 구현클래스의 선언](src/ch08/sec02/8.2_InterfaceDeclaration.md)</br>
 [8.3 상수필드](src/ch08/sec03/8.3_ConstantField.md)</br>
+[8.4 추상메서드](src/ch08/sec04/8.4_AbstractMethod.md)</br>
+[8.5 디폴트메서드](src/ch08/sec05/8.5_DefaultMethod.md)</br>
+[8.6 정적메서드](src/ch08/sec06/8.6_StaticMethod.md)</br>
+[8.7 private 메서드](src/ch08/sec07/8.7_PrivateMethod.md)</br>
+[8.8 다중인터페이스 구현](src/ch08/sec08/8.8_MultiInterface.md)</br>
+[8.9_인터페이스 상속](src/ch08/sec09/8.9_InterfaceInheritance.md)</br>
+[8.10 타입변환](src/ch08/sec10/8.10_TypeCasting.md)</br>
+[8.11 인터페이스에 의한 다형성](src/ch08/sec11/exam02/8.11_Polymorphism_Interface.md)</br>
+[8.12 객체타입확인](src/ch08/sec12/8.12_CheckObjectType.md)</br>
+[8.13 봉인 된 인터페이스](src/ch08/sec13/8.13_SealedInterface.md)</br>
+
+## 9장 중첩선언과 익명 객체
