@@ -56,10 +56,3 @@
 [8.13 봉인 된 인터페이스](src/ch08/sec13/8.13_SealedInterface.md)</br>
 
 ## 9장 중첩선언과 익명 객체
-[9.1 중첩클래스](src/ch09/sec01/9.1_NestedClass.md)</br>
-[9.2 인스턴스 멤버 클래스](src/ch09/sec02/9.2_MemberClass.md)</br>
-[9.3 정적 멤버 클래스](src/ch09/sec03/9.3_StaticMemberClass.md)</br>
-[9.4 로컬클래스](src/ch09/sec04/9.4_LocalClass.md)</br>
-[9.5 바깥클래스에 대한 멤버접근](src/ch09/sec05/9.5_OuterMemberAccess.md)</br> 
-[9.6 중첩인터페이스](src/ch09/sec06/9.6_NestedInterface.md)</br>
-[9.7 익명객체](src/ch09/sec07/9.7_AnonymousObject.md)</br>
