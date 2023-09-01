@@ -124,3 +124,23 @@ null 인 줄 알았는데 false 였다.
 ### 클래스 공부 재학습 필요
 중첩 클래스, 중첩인터페이스를 경험 수준에서 끝냈다. 익숙해지기 위해 예제까지 코딩을 했지만 개념적 이해는 아직 부족하다.
 참고자료를 더 찾아봐도 쓰임새가 공감되지가 않는다. 일단, 다른 진도부터 나가고 해당부분은 돌아와서 다시 보자.
+
+# 2023.09.01(금)
+## 학습내용
+[11.1 예외와 예외처리클래스](src/ch11/sec01/11.1_exceptionClass.md)</br>
+[11.2 예외처리코드](src/ch11/sec02/11.2_ExceptionHandling.md)</br>
+[11.3 예외종류에 따른 처리](src/ch11/sec03/11.3_ExceptionType.md)</br>
+[11.4 리소스 자동 닫기](src/ch11/sec04/11.4_closeResource.md)</br>
+[11.5 예외 넘기기](src/ch11/sec05/11.5_throwException.md)</br>
+[11.6 사용자 정의 예외](src/ch11/sec06/11.6_OptimizedException.md)</br>
+[12.1 공식 java API 문서보는 법](src/ch12/sec01/12.1_apiDocuments.md)</br>
+[12.2 java.base 모듈](src/ch12/sec02/12.2_javabaseModule.md)</br>
+[12.3 Object 클래스](src/ch12/sec03/12.3_ObjectClass.md)</br>
+[12.4 System 클래스](src/ch12/sec04/12.4_SystemClass.md)</br>
+[12.5 문자열 클래스](src/ch12/sec05/12.5_StringClass.md)</br>
+
+## 피드백
+### [12.3 Object 클래스](src/ch12/sec03/12.3_ObjectClass.md)</br>
+> hashCode()와 equals()의 로직을 비교해서 추가 정리 필요.</br>
+
+
