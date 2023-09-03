@@ -143,4 +143,29 @@ null 인 줄 알았는데 false 였다.
 ### [12.3 Object 클래스](src/ch12/sec03/12.3_ObjectClass.md)</br>
 > hashCode()와 equals()의 로직을 비교해서 추가 정리 필요.</br>
 
+# 2023.09.02(토)
+## 학습내용
+[12.6 포장 클래스](src/ch12/sec06/12.6_WrapperClass.md)</br>
+[12.7 Math 클래스](src/ch12/sec07/12.7_MathClass.md)</br>
+[12.8 날짜 클래스](src/ch12/sec08/12.8_DateAndCalendarClass.md)</br>
+[12.9 형식 클래스](src/ch12/sec09/12.9_FormatClass.md)</br>
+[12.10 정규표현식 클래스](src/ch12/sec10/12.10_RegexClass.md)</br>
 
+# 2023.09.10(일)
+## 학습내용
+[12.11 리플렉션](src/ch12/sec11/12.11_Reflection.md)</br>
+[12.12 어노테이션](src/ch12/sec12/12.12_Annotation.md)</br>
+## 피드백
+> 리플렉션이랑 어노테이션을 다시 정리하자. 쓰임새가 와닿지 않는다. 메커니즘도 어떻게 작동되는 지 이해가 되지 않는다.
+
+
+
+# 2023.09.11(월)
+## 학습내용
+[13.1 제네릭](src/ch13/sec01/13.1_Generic.md)</br>
+[13.2 제네릭타입](src/ch13/sec02/12.2_GenericType.md)</br>
+[13.3 제네릭메서드](src/ch13/sec03/exam01/13.3_GenericMethod.md)</br>
+[13.4 제한타입파라미터](src/ch13/sec04/13.4_BoundedTypeParameter.md)</br>
+[13.5 와일드카드](src/ch13/sec05/13.5_WildTypeParameter.md)</br>
+[14.1 멀티스레드개념](src/ch14/sec01/14.1_MultiThread.md)</br>
+[15.1 컬렉션프레임워크](src/ch15/sec01/15.1_CollectionFramework.md)</br>
