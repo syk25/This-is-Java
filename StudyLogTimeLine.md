@@ -151,7 +151,7 @@ null 인 줄 알았는데 false 였다.
 [12.9 형식 클래스](src/ch12/sec09/12.9_FormatClass.md)</br>
 [12.10 정규표현식 클래스](src/ch12/sec10/12.10_RegexClass.md)</br>
 
-# 2023.09.10(일)
+# 2023.09.03(일)
 ## 학습내용
 [12.11 리플렉션](src/ch12/sec11/12.11_Reflection.md)</br>
 [12.12 어노테이션](src/ch12/sec12/12.12_Annotation.md)</br>
@@ -160,7 +160,7 @@ null 인 줄 알았는데 false 였다.
 
 
 
-# 2023.09.11(월)
+# 2023.09.04(월)
 ## 학습내용
 [13.1 제네릭](src/ch13/sec01/13.1_Generic.md)</br>
 [13.2 제네릭타입](src/ch13/sec02/12.2_GenericType.md)</br>
@@ -169,3 +169,16 @@ null 인 줄 알았는데 false 였다.
 [13.5 와일드카드](src/ch13/sec05/13.5_WildTypeParameter.md)</br>
 [14.1 멀티스레드개념](src/ch14/sec01/14.1_MultiThread.md)</br>
 [15.1 컬렉션프레임워크](src/ch15/sec01/15.1_CollectionFramework.md)</br>
+
+# 2023.09.05(화)
+## 학습내용
+[14.2 메인스레드](src/ch14/sec02/14.2_MainThread.md)</br>
+[14.3 작업스레드](src/ch14/sec03/14.3_TaskThread.md)</br>
+[14.4 스래드이름](src/ch14/sec04/14.4_ThreadName.md)</br>
+[14.5 스레드 상태](src/ch14/sec05/exam03/YieldExample.java)</br>
+[14.6 스레드의 동기화](src/ch14/sec06/14.6_ThreadSync.md)</br>
+[14.7 스레드 안전 종료](src/ch14/sec07/14.7_ThreadEnd.md)</br>
+[14.8 데몬스레드](src/ch14/sec08/14.8_DaeomonThread.md)</br>
+[14.9 스레드풀](src/ch14/sec09/14.9_ThreadPool.md)</br>
+## 피드백
+스레드 관련 내용은 익숙하지 않아서 해당내용은 다른 곳에서도 찾아봐야겠다.
