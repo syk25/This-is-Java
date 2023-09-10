@@ -182,3 +182,26 @@ null 인 줄 알았는데 false 였다.
 [14.9 스레드풀](src/ch14/sec09/14.9_ThreadPool.md)</br>
 ## 피드백
 스레드 관련 내용은 익숙하지 않아서 해당내용은 다른 곳에서도 찾아봐야겠다.
+
+# 2023.09.06(수)
+### 학습내용
+[15.1 컬렉션프레임워크](src/ch15/sec01/15.1_CollectionFramework.md)</br>
+[15.2 리스트](src/ch15/sec02/15.2_ListCollection.md)</br>
+[15.3 Set](src/ch15/sec03/15.3_Set.md)</br>
+
+# 2023.09.07(목)
+### 학습내용
+[15.4 Map](src/ch15/sec04/15.4_Map.md)</br>
+[15.5 검색기능 강화 컬렉션](src/ch15/sec05/15.5_Search.md)</br>
+
+# 2023.09.08(금)
+## 학습내용
+[15.6 LIFO, FIFO](src/ch15/sec06/15.6_LIFOandFIFO.md)</br>
+
+# 2023.09.09(토)
+[15.7 동기화된 컬렉션](src/ch15/sec07/15.7_SynchronizedCollection.md)</br>
+[15.8 수정할 수 없는 컬렉션](src/ch15/sec08/15.8_unmodifiable.md)</br>
+
+# 2023.09.11(월)
+[16.1 람다식이란](src/ch16/sec01/16.1_LambdaExpression.md)</br>
+[16.2 매개변수 없는 람다식](src/ch16/sec02/16.2_NonParameter.md)</br>

@@ -4,47 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="2023.09.03(일) 학습 결과 - 13장 완료">
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec02/14.2_MainThread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec03/14.3_TaskThread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec03/exam01/BeepPrintExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec03/exam02/BeepPrintExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec03/exam03/BeepPrintExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec04/14.4_ThreadName.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec04/ThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/14.5_ThreadState.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam01/SleepExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam02/JoinExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam02/SumThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam03/WorkThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec05/exam03/YieldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/14.6_ThreadSync.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/SynchronizedExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/User1Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam01/User2Thread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/WaitNotifyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec06/exam02/WorkObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/14.7_ThreadEnd.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam01/PrintThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam01/SafeStopExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam02/InterruptExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam02/PrintThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam03/InterruptExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec07/exam03/PrintThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec08/14.8_DaeomonThread.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec08/AutoThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec08/DaemonExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec09/14.9_ThreadPool.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec09/exam01/ExecutorServiceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec09/exam02/RunnableExecuteExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch14/sec09/exam03/CallableSubmitExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch15/sec02/exam02/VectorExample.java" afterDir="false" />
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="2023.09.03(화) 학습 결과 - 14장 완료">
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec02/exam03/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec03/15.3_Set.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec03/exam01/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec03/exam02/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec03/exam02/MemberSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec03/exam03/HashSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/15.4_Map.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam01/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam02/HashtableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam03/PropertiesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec04/exam03/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/15.5_Search.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam01/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam02/TreeMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam03/ComparableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam03/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam04/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam04/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec05/exam04/FruitComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec06/15.6_LIFOandFIFO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec06/exam01/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec06/exam01/StackExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec06/exam02/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec06/exam02/QueueExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec07/15.7_SynchronizedCollection.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec07/SynchronizedMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec08/15.8_unmodifiable.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch15/sec08/ImmutableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec01/16.1_LambdaExpression.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec01/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec01/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/16.2_NonParameter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam01/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam01/Workable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam02/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec02/exam02/ButtonExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyLogTimeLine.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyLogTimeLine.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyNotes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch15/sec02/15.2_ListCollection.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15/sec02/15.2_ListCollection.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch15/sec02/exam02/VectorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch15/sec02/exam02/VectorExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -130,13 +132,13 @@
       <recent name="ch09.sec07.exam03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CallableSubmitExample (3)">
-    <configuration name="CallableSubmitExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14.sec09.exam03.CallableSubmitExample" />
+  <component name="RunManager" selected="Application.ButtonExample">
+    <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16.sec02.exam02.ButtonExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14.sec09.exam03.*" />
+          <option name="PATTERN" value="ch16.sec02.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallableSubmitExample (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14.sec09.exam03.CallableSubmitExample" />
+    <configuration name="ImmutableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec08.ImmutableExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14.sec09.exam03.*" />
+          <option name="PATTERN" value="ch15.sec08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallableSubmitExample (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14.sec09.exam03.CallableSubmitExample" />
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16.sec01.LambdaExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14.sec09.exam03.*" />
+          <option name="PATTERN" value="ch16.sec01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallableSubmitExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14.sec09.exam03.CallableSubmitExample" />
+    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec06.exam02.QueueExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14.sec09.exam03.*" />
+          <option name="PATTERN" value="ch15.sec06.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RunnableExecuteExample (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch14.sec09.exam02.RunnableExecuteExample" />
+    <configuration name="StackExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15.sec06.exam01.StackExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch14.sec09.exam02.*" />
+          <option name="PATTERN" value="ch15.sec06.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,19 +199,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CallableSubmitExample" />
-      <item itemvalue="Application.CallableSubmitExample (1)" />
-      <item itemvalue="Application.CallableSubmitExample (2)" />
-      <item itemvalue="Application.CallableSubmitExample (3)" />
-      <item itemvalue="Application.RunnableExecuteExample (1)" />
+      <item itemvalue="Application.ButtonExample" />
+      <item itemvalue="Application.ImmutableExample" />
+      <item itemvalue="Application.LambdaExample" />
+      <item itemvalue="Application.QueueExample" />
+      <item itemvalue="Application.StackExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CallableSubmitExample (3)" />
-        <item itemvalue="Application.CallableSubmitExample" />
-        <item itemvalue="Application.CallableSubmitExample (2)" />
-        <item itemvalue="Application.CallableSubmitExample (1)" />
-        <item itemvalue="Application.RunnableExecuteExample (1)" />
+        <item itemvalue="Application.ButtonExample" />
+        <item itemvalue="Application.LambdaExample" />
+        <item itemvalue="Application.ImmutableExample" />
+        <item itemvalue="Application.QueueExample" />
+        <item itemvalue="Application.StackExample" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +274,14 @@
       <workItem from="1693887613993" duration="76000" />
       <workItem from="1693901310416" duration="4521000" />
       <workItem from="1693911784153" duration="3256000" />
-      <workItem from="1693915058510" duration="411000" />
+      <workItem from="1693915058510" duration="640000" />
+      <workItem from="1693921963004" duration="1222000" />
+      <workItem from="1693923303018" duration="677000" />
+      <workItem from="1693934455765" duration="1357000" />
+      <workItem from="1694052072007" duration="6819000" />
+      <workItem from="1694100434640" duration="1807000" />
+      <workItem from="1694187049520" duration="1578000" />
+      <workItem from="1694210349735" duration="4107000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -410,7 +419,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693766247280</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2023.09.03(화) 학습 결과 - 14장 완료">
+      <option name="closed" value="true" />
+      <created>1693915693120</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1693915693120</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -444,7 +461,8 @@
     <MESSAGE value="2023.08.31(목) 학습 결과 - 9장 완료" />
     <MESSAGE value="2023.09.1(금) 학습 결과 - 10, 11장 완료" />
     <MESSAGE value="2023.09.03(일) 학습 결과 - 13장 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.09.03(일) 학습 결과 - 13장 완료" />
+    <MESSAGE value="2023.09.03(화) 학습 결과 - 14장 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="2023.09.03(화) 학습 결과 - 14장 완료" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
