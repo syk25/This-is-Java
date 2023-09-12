@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="2023.09.10(일) 학습 결과 - 15장 완료">
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/Speakable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec03/Workable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="[doc] 16.3 정리">
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec04/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec04/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec04/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <recent name="ch09.sec07.exam03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch16.sec03.LambdaExample">
+  <component name="RunManager" selected="Application.ch16.sec04.LambdaExample">
     <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch16.sec02.exam02.ButtonExample" />
       <module name="This-is-Java" />
@@ -135,19 +133,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.sec06.exam02.QueueExample" />
-      <module name="This-is-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch15.sec06.exam02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ch16.sec03.LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch16.sec03.LambdaExample" />
       <module name="This-is-Java" />
@@ -161,20 +146,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch16.sec04.LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16.sec04.LambdaExample" />
+      <module name="This-is-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch16.sec04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.ch16.sec03.LambdaExample" />
+      <item itemvalue="Application.ch16.sec04.LambdaExample" />
       <item itemvalue="Application.ButtonExample" />
       <item itemvalue="Application.ImmutableExample" />
       <item itemvalue="Application.LambdaExample" />
-      <item itemvalue="Application.QueueExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch16.sec04.LambdaExample" />
         <item itemvalue="Application.ch16.sec03.LambdaExample" />
         <item itemvalue="Application.ButtonExample" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.ImmutableExample" />
-        <item itemvalue="Application.QueueExample" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +244,7 @@
       <workItem from="1694187049520" duration="1578000" />
       <workItem from="1694210349735" duration="4312000" />
       <workItem from="1694506688267" duration="619000" />
-      <workItem from="1694539445288" duration="537000" />
+      <workItem from="1694539445288" duration="1302000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -400,7 +398,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694366351202</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[doc] 16.3 정리">
+      <option name="closed" value="true" />
+      <created>1694540381737</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1694540381737</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -436,7 +442,8 @@
     <MESSAGE value="2023.09.03(일) 학습 결과 - 13장 완료" />
     <MESSAGE value="2023.09.03(화) 학습 결과 - 14장 완료" />
     <MESSAGE value="2023.09.10(일) 학습 결과 - 15장 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="2023.09.10(일) 학습 결과 - 15장 완료" />
+    <MESSAGE value="[doc] 16.3 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="[doc] 16.3 정리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

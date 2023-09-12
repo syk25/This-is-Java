@@ -119,7 +119,7 @@
 [16.1 람다식이란](src/ch16/sec01/16.1_LambdaExpression.md)</br>
 [16.2 매개변수 없는 람다식](src/ch16/sec02/16.2_NonParameter.md)</br>
 [16.3 매개변수 있는 람다식](src/ch16/sec03/16.3_매개변수있는람다식.md)</br>
-
+[16.4 리턴값이 있는 람다식](src/ch16/sec04/LambdaExample.java)</br>
 
 ## 17장 스트림 요소 처리
 
