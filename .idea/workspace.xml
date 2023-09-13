@@ -4,10 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="[doc] 16.3 정리">
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec04/Calculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec04/LambdaExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch16/sec04/Person.java" afterDir="false" />
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="[doc] 16.4 정리">
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec05/exam01/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec05/exam01/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec05/exam01/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec05/exam01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec05/exam02/Comparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec05/exam02/MethodReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec05/exam02/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/ConstructorReferenceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Creatable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Creatable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch16/sec06/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,20 +96,20 @@
       <recent name="$PROJECT_DIR$/src/ch02/Sec02" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch16.sec06" />
+      <recent name="ch16.sec05.exam01" />
       <recent name="ch14.sec06.exam02" />
       <recent name="ch14.sec06" />
       <recent name="ch13.sec02.exam02" />
-      <recent name="ch11.sec02" />
-      <recent name="ch09.sec07.exam03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch16.sec04.LambdaExample">
-    <configuration name="ButtonExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16.sec02.exam02.ButtonExample" />
+  <component name="RunManager" selected="Application.ConstructorReferenceExample">
+    <configuration name="ConstructorReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16.sec06.ConstructorReferenceExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch16.sec02.exam02.*" />
+          <option name="PATTERN" value="ch16.sec06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,25 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImmutableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch15.sec08.ImmutableExample" />
+    <configuration name="MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16.sec05.exam01.MethodReferenceExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch15.sec08.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch16.sec01.LambdaExample" />
-      <module name="This-is-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ch16.sec01.*" />
+          <option name="PATTERN" value="ch16.sec05.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,20 +156,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch16.sec05.exam02.MethodReferenceExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch16.sec05.exam02.MethodReferenceExample" />
+      <module name="This-is-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ch16.sec05.exam02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.ConstructorReferenceExample" />
+      <item itemvalue="Application.MethodReferenceExample" />
+      <item itemvalue="Application.ch16.sec05.exam02.MethodReferenceExample" />
       <item itemvalue="Application.ch16.sec03.LambdaExample" />
       <item itemvalue="Application.ch16.sec04.LambdaExample" />
-      <item itemvalue="Application.ButtonExample" />
-      <item itemvalue="Application.ImmutableExample" />
-      <item itemvalue="Application.LambdaExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConstructorReferenceExample" />
+        <item itemvalue="Application.ch16.sec05.exam02.MethodReferenceExample" />
+        <item itemvalue="Application.MethodReferenceExample" />
         <item itemvalue="Application.ch16.sec04.LambdaExample" />
         <item itemvalue="Application.ch16.sec03.LambdaExample" />
-        <item itemvalue="Application.ButtonExample" />
-        <item itemvalue="Application.LambdaExample" />
-        <item itemvalue="Application.ImmutableExample" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +254,8 @@
       <workItem from="1694187049520" duration="1578000" />
       <workItem from="1694210349735" duration="4312000" />
       <workItem from="1694506688267" duration="619000" />
-      <workItem from="1694539445288" duration="1302000" />
+      <workItem from="1694539445288" duration="1550000" />
+      <workItem from="1694610684993" duration="1121000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -406,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694540381737</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="[doc] 16.4 정리">
+      <option name="closed" value="true" />
+      <created>1694540989519</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1694540989519</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,7 +462,8 @@
     <MESSAGE value="2023.09.03(화) 학습 결과 - 14장 완료" />
     <MESSAGE value="2023.09.10(일) 학습 결과 - 15장 완료" />
     <MESSAGE value="[doc] 16.3 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="[doc] 16.3 정리" />
+    <MESSAGE value="[doc] 16.4 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="[doc] 16.4 정리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

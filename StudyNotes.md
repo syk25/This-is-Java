@@ -120,6 +120,8 @@
 [16.2 매개변수 없는 람다식](src/ch16/sec02/16.2_NonParameter.md)</br>
 [16.3 매개변수 있는 람다식](src/ch16/sec03/16.3_매개변수있는람다식.md)</br>
 [16.4 리턴값이 있는 람다식](src/ch16/sec04/LambdaExample.java)</br>
+[16.5 메서드 참조](src/ch16/sec05/16.5_MethodReference.md)</br>
+[16.6 생성자 참조](src/ch16/sec06/16.6_ConstructorReference.md)</br>
 
 ## 17장 스트림 요소 처리
 
