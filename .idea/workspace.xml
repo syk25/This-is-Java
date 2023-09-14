@@ -4,34 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="[doc] 17.1, 17.2절 정리">
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec03/17.3_PipeLines.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec03/StreamPipeLineExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec03/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/17.4_ResourceStream.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam01/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam01/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam02/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam03/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam04/StreamExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec04/exam04/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec05/17.5_Filtering.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec05/FilteringExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/17.6_Mapping.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/exam01/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/exam01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/exam02/MapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec06/exam03/FlatMappingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/17.7_SortingElements.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam01/SortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam02/SortingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec07/exam02/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec08/LoopingExample.java" afterDir="false" />
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="[doc] 17.3 ~ 17.8절 정리">
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec09/17.9_Matching.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec09/MatchingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/17.10_Aggregation.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/AggregateExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/OptionalExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyLogTimeLine.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyLogTimeLine.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyNotes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch17/sec01/17.1_Stream.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch17/sec01/17.1_Stream.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,13 +98,13 @@
       <recent name="ch13.sec02.exam02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LoopingExample">
-    <configuration name="FlatMappingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam03.FlatMappingExample" />
+  <component name="RunManager" selected="Application.OptionalExample">
+    <configuration name="AggregateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec10.AggregateExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec06.exam03.*" />
+          <option name="PATTERN" value="ch17.sec10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec07.exam01.SortingExample" />
+    <configuration name="MatchingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec09.MatchingExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec07.exam01.*" />
+          <option name="PATTERN" value="ch17.sec09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch17.sec06.exam02.MapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec06.exam02.MapExample" />
+    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch17.sec10.OptionalExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec06.exam02.*" />
+          <option name="PATTERN" value="ch17.sec10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,19 +165,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FlatMappingExample" />
+      <item itemvalue="Application.AggregateExample" />
+      <item itemvalue="Application.MatchingExample" />
+      <item itemvalue="Application.OptionalExample" />
       <item itemvalue="Application.LoopingExample" />
-      <item itemvalue="Application.SortingExample" />
-      <item itemvalue="Application.ch17.sec06.exam02.MapExample" />
       <item itemvalue="Application.ch17.sec07.exam02.SortingExample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OptionalExample" />
+        <item itemvalue="Application.AggregateExample" />
+        <item itemvalue="Application.MatchingExample" />
         <item itemvalue="Application.LoopingExample" />
         <item itemvalue="Application.ch17.sec07.exam02.SortingExample" />
-        <item itemvalue="Application.SortingExample" />
-        <item itemvalue="Application.FlatMappingExample" />
-        <item itemvalue="Application.ch17.sec06.exam02.MapExample" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +252,8 @@
       <workItem from="1694539445288" duration="1550000" />
       <workItem from="1694610684993" duration="2175000" />
       <workItem from="1694614659266" duration="1535000" />
-      <workItem from="1694649117155" duration="9241000" />
+      <workItem from="1694649117155" duration="9640000" />
+      <workItem from="1694704667762" duration="2477000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -457,7 +439,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694612849945</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="[doc] 17.3 ~ 17.8절 정리">
+      <option name="closed" value="true" />
+      <created>1694660121577</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1694660121577</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -497,7 +487,8 @@
     <MESSAGE value="[doc] 16.4 정리" />
     <MESSAGE value="[doc] 16.5, 16.6 정리" />
     <MESSAGE value="[doc] 17.1, 17.2절 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="[doc] 17.1, 17.2절 정리" />
+    <MESSAGE value="[doc] 17.3 ~ 17.8절 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="[doc] 17.3 ~ 17.8절 정리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

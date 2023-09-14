@@ -221,3 +221,7 @@ null 인 줄 알았는데 false 였다.
 [17.6 매핑](src/ch17/sec06/17.6_Mapping.md)</br>
 [17.7 요소정렬](src/ch17/sec07/17.7_SortingElements.md)</br>
 [17.8 루핑](src/ch17/sec08/17.8_Looping.md)</br>
+
+# 2023.09.15(금)
+[17.9 매칭](src/ch17/sec09/MatchingExample.java)</br>
+[17.10 요소집계](src/ch17/sec10/17.10_Aggregation.md)</br>

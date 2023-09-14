@@ -132,7 +132,8 @@
 [17.6 매핑](src/ch17/sec06/17.6_Mapping.md)</br>
 [17.7 요소정렬](src/ch17/sec07/17.7_SortingElements.md)</br>
 [17.8 루핑](src/ch17/sec08/17.8_Looping.md)</br>
-
+[17.9 매칭](src/ch17/sec09/MatchingExample.java)</br>
+[17.10 요소집계](src/ch17/sec10/17.10_Aggregation.md)</br>
 
 # Part 04 데이터의 입출력
 ## 18장 데이터 입출력
