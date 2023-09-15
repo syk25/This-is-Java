@@ -4,12 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="[doc] 17.3 ~ 17.8절 정리">
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec09/17.9_Matching.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec09/MatchingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/17.10_Aggregation.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/AggregateExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch17/sec10/OptionalExample.java" afterDir="false" />
+    <list default="true" id="a1ed47e5-00c3-4035-9c37-187b8e47faf8" name="Changes" comment="[doc] 17.9 ~ 17.10절 정리">
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec11/17.11_Reduction.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec11/ReductionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec11/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec12/17.12_Collect.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec12/exam01/CollectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec12/exam01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec12/exam02/CollectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec12/exam02/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec12/exam03/CollectExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec12/exam03/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec13/17.13_ParallelStream.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch17/sec13/ParallelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec01/18.1_IOStream.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec02/18.2_ByteOutpitStream.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec02/exam01/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec02/exam01/test1.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec02/exam02/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec02/exam02/test2.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec02/exam03/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec02/exam03/test3.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec03/exam01/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec03/exam01/test1.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec03/exam02/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec03/exam02/test2.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec03/exam03/CopyExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec04/18.4_CharInputStream.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec04/exam01/WriteExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec04/exam01/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec04/exam02/ReadExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch18/sec04/exam02/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyLogTimeLine.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyLogTimeLine.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/StudyNotes.md" beforeDir="false" afterPath="$PROJECT_DIR$/StudyNotes.md" afterDir="false" />
@@ -56,55 +81,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/syk25/Desktop/This-is-Java/src/ch14/sec07/exam03&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/syk25/Desktop/This-is-Java/src/ch18/sec03/exam02",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "configurable.group.build",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/ch14/sec07/exam03" />
-      <recent name="$PROJECT_DIR$/src/ch06/sec13/exam03" />
-      <recent name="$PROJECT_DIR$/src/ch06/sec13" />
-      <recent name="$PROJECT_DIR$/src/ch06/sec13/exam02" />
-      <recent name="$PROJECT_DIR$/src/ch06/sec08/exam02" />
+      <recent name="$PROJECT_DIR$/src/ch18/sec03/exam02" />
+      <recent name="$PROJECT_DIR$/src/ch18/sec03/exam01" />
+      <recent name="$PROJECT_DIR$/src/ch18/sec04/exam02" />
+      <recent name="$PROJECT_DIR$/src/ch18/sec02/exam03" />
+      <recent name="$PROJECT_DIR$/src/ch17/sec12/exam03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ch18/sec02/exam03" />
+      <recent name="$PROJECT_DIR$/src/ch18/sec02/exam01" />
       <recent name="$PROJECT_DIR$/src/ch17/sec04" />
       <recent name="$PROJECT_DIR$/src/ch15/sec01" />
       <recent name="$PROJECT_DIR$/src/ch08/sec12" />
-      <recent name="$PROJECT_DIR$/src/ch02/Sec04" />
-      <recent name="$PROJECT_DIR$/src/ch02/Sec03" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ch18.sec03.exam02" />
       <recent name="ch16.sec06" />
       <recent name="ch16.sec05.exam01" />
       <recent name="ch14.sec06.exam02" />
       <recent name="ch14.sec06" />
-      <recent name="ch13.sec02.exam02" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OptionalExample">
-    <configuration name="AggregateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec10.AggregateExample" />
+  <component name="RunManager" selected="Application.CopyExample">
+    <configuration name="CopyExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec03.exam03.CopyExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec10.*" />
+          <option name="PATTERN" value="ch18.sec03.exam03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoopingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec08.LoopingExample" />
+    <configuration name="ReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec04.exam02.ReadExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec08.*" />
+          <option name="PATTERN" value="ch18.sec04.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec09.MatchingExample" />
+    <configuration name="ch18.sec03.exam01.ReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec03.exam01.ReadExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec09.*" />
+          <option name="PATTERN" value="ch18.sec03.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OptionalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec10.OptionalExample" />
+    <configuration name="ch18.sec03.exam02.ReadExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec03.exam02.ReadExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec10.*" />
+          <option name="PATTERN" value="ch18.sec03.exam02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch17.sec07.exam02.SortingExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch17.sec07.exam02.SortingExample" />
+    <configuration name="ch18.sec04.exam01.WriteExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch18.sec04.exam01.WriteExample" />
       <module name="This-is-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ch17.sec07.exam02.*" />
+          <option name="PATTERN" value="ch18.sec04.exam01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,19 +192,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AggregateExample" />
-      <item itemvalue="Application.MatchingExample" />
-      <item itemvalue="Application.OptionalExample" />
-      <item itemvalue="Application.LoopingExample" />
-      <item itemvalue="Application.ch17.sec07.exam02.SortingExample" />
+      <item itemvalue="Application.CopyExample" />
+      <item itemvalue="Application.ReadExample" />
+      <item itemvalue="Application.ch18.sec03.exam01.ReadExample" />
+      <item itemvalue="Application.ch18.sec03.exam02.ReadExample" />
+      <item itemvalue="Application.ch18.sec04.exam01.WriteExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OptionalExample" />
-        <item itemvalue="Application.AggregateExample" />
-        <item itemvalue="Application.MatchingExample" />
-        <item itemvalue="Application.LoopingExample" />
-        <item itemvalue="Application.ch17.sec07.exam02.SortingExample" />
+        <item itemvalue="Application.CopyExample" />
+        <item itemvalue="Application.ch18.sec03.exam02.ReadExample" />
+        <item itemvalue="Application.ch18.sec03.exam01.ReadExample" />
+        <item itemvalue="Application.ReadExample" />
+        <item itemvalue="Application.ch18.sec04.exam01.WriteExample" />
       </list>
     </recent_temporary>
   </component>
@@ -253,7 +280,8 @@
       <workItem from="1694610684993" duration="2175000" />
       <workItem from="1694614659266" duration="1535000" />
       <workItem from="1694649117155" duration="9640000" />
-      <workItem from="1694704667762" duration="2477000" />
+      <workItem from="1694704667762" duration="2704000" />
+      <workItem from="1694763802066" duration="5656000" />
     </task>
     <task id="LOCAL-00001" summary="4.5절, 4.6절 예제 완료">
       <option name="closed" value="true" />
@@ -447,7 +475,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694660121577</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="[doc] 17.9 ~ 17.10절 정리">
+      <option name="closed" value="true" />
+      <created>1694707334743</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1694707334743</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,6 +501,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="4.5절, 4.6절 예제 완료" />
     <MESSAGE value="4장 완료&#10;1. 4.7, 4.8절 예제풀이 완료&#10;2. 4장 연습문제 풀이 완료" />
     <MESSAGE value="-- 학습 일지 day1--&#10;5.1절 : 데이터타입 분류 정리&#10;5.2절 : 메모리 사용 영역&#10;5.3절 : 참조타입변수의 ==, != 연산&#10;5.4절 : null, null point exception" />
@@ -488,7 +525,8 @@
     <MESSAGE value="[doc] 16.5, 16.6 정리" />
     <MESSAGE value="[doc] 17.1, 17.2절 정리" />
     <MESSAGE value="[doc] 17.3 ~ 17.8절 정리" />
-    <option name="LAST_COMMIT_MESSAGE" value="[doc] 17.3 ~ 17.8절 정리" />
+    <MESSAGE value="[doc] 17.9 ~ 17.10절 정리" />
+    <option name="LAST_COMMIT_MESSAGE" value="[doc] 17.9 ~ 17.10절 정리" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

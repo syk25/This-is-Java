@@ -225,3 +225,11 @@ null 인 줄 알았는데 false 였다.
 # 2023.09.15(금)
 [17.9 매칭](src/ch17/sec09/MatchingExample.java)</br>
 [17.10 요소집계](src/ch17/sec10/17.10_Aggregation.md)</br>
+[17.11 요소 커스텀 집계](src/ch17/sec11/17.11_Reduction.md)</br>
+[17.12 요소수집](src/ch17/sec12/17.12_Collect.md)</br>
+[17.13 요소 병렬 처리](src/ch17/sec13/17.13_ParallelStream.md)</br>
+[18.1 입출력스트림](src/ch18/sec01/18.1_IOStream.md)</br>
+[18.2 바이트 출력스트림](src/ch18/sec02/18.2_ByteOutpitStream.md)</br>
+[18.3 바이트 입력스트림](src/ch18/sec03/18.3_ByteInputStream.md)</br> 
+[18.4 문자 입력스트림](src/ch18/sec04/18.4_CharInputStream.md)</br>
+# 
